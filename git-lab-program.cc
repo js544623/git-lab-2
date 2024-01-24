@@ -2,7 +2,7 @@
  *        File: git-lab-program.cc
  *      Author: Olive Schoelkopf
  *        Date: 1/23/24
- * Description: Add Description
+ * Description: Program for clone repository
  */
 
 #include <iostream>
